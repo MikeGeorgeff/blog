@@ -3,6 +3,8 @@ title: Natural Aristoi
 description: 'Frameworks should earn their place in your application through demonstrated merit — not convention, not network effect, not being the path of least resistance.'
 published: true
 tags: 'architecture, softwareengineering, philosophy, opensource'
+id: 3807533
+date: '2026-06-03T05:08:40Z'
 ---
 
 Frameworks should earn their place in your application through demonstrated merit -- not convention, not network effect, not being the path of least resistance.
