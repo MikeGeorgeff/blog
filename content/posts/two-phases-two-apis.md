@@ -1,8 +1,10 @@
 ---
-title: Two Phases, Two APIs
-description: How enforcing the boot/run boundary makes applications predictable, testable, and honest about their own state
+title: 'Two Phases, Two APIs'
+description: 'How enforcing the boot/run boundary makes applications predictable, testable, and honest about their own state'
 published: true
-tags: "architecture, softwareengineering, programming"
+tags: 'architecture, softwareengineering, programming'
+id: 3852903
+date: '2026-06-09T03:01:24Z'
 ---
 
 Most applications have no enforced lifecycle boundaries. Services get resolved at arbitrary times, configs mutate mid-request, init logic bleeds into request handling. The result is an application that is difficult to reason about because its state is never truly settled.
