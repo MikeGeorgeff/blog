@@ -1,8 +1,10 @@
 ---
-title: "Your PHP Logs are Lying to You"
-description: "Plain JSON to stdout and a PSR-3 interface. The simplest PHP logging setup is also the most useful one."
+title: Your PHP Logs are Lying to You
+description: Plain JSON to stdout and a PSR-3 interface. The simplest PHP logging setup is also the most useful one.
 published: true
-tags: "architecture, softwareengineering, php, php8"
+tags: 'architecture, softwareengineering, php, php8'
+id: 3916791
+date: '2026-06-16T14:42:04Z'
 ---
 
 ### The Evolution: From Log Tails to Indexed Search
