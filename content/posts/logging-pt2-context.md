@@ -1,8 +1,10 @@
 ---
-title: Context is Curated, Not Captured
-description: Structured logs are only as good as the structure going in. A domain exception model, translation pipeline, and enricher pattern that enforce context consistency at the exception level.
+title: 'Context is Curated, Not Captured'
+description: 'Structured logs are only as good as the structure going in. A domain exception model, translation pipeline, and enricher pattern that enforce context consistency at the exception level.'
 published: true
-tags: "architecture, softwareengineering, php, php8"
+tags: 'architecture, softwareengineering, php, php8'
+id: 3964081
+date: '2026-06-22T17:17:39Z'
 ---
 
 ### The Problem Part 1 Didn't Solve
